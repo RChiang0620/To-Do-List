@@ -1,0 +1,57 @@
+#wholeHTML {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#HTML {
+  background-color: #000;
+}
+
+#title {
+  color: #ebff00
+}
+
+#titleWhole {
+  color: #fff;
+  font-size: 70px;
+}
+
+#p {
+  color: #fff;
+  font-size: 20px;
+}
+
+#input {
+  background-color: #fff;
+  color: #000;
+  border-radius: 40px;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  width: 450px;
+  font-size: 20px;
+  border: none;
+}
+
+#button {
+  color: #000;
+  border-radius: 50%;
+  padding: 12.5px;
+  width: 60px ;
+  font-size: 30px;
+  background-color: #ebff00;
+  cursor: pointer;
+  border: none;
+  transition-duration: 0.4s;
+}
+
+#button:hover {
+  background-color: #fff;
+  color: #ebff00;
+}
+
+#list {
+  color: white;
+  font-size: 22.5px;
+  cursor: pointer;
+}
